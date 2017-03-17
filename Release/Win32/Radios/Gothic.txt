@@ -6,3 +6,4 @@ Radio Schwarze Welle;http://www.schwarze-welle.de/;http://85.25.43.132:7500
 Real Industrial Radio;http://realindustrialradio.com/;http://radio.realindustrialradio.com:8000/
 Ultra Dark Radio;http://www.ultradarkradio.com;http://stream1.laut.fm/ultradarkradio
 Vox Noctem;http://www.voxnoctem.de;http://r2d2.voxnoctem.de:8000/voxnoctem.mp3
+Acidic Infektion.br;http://www.acidicinfektion.com;http://radio.acidicinfektion.ind.in:8047
