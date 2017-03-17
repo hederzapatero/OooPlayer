@@ -46,3 +46,4 @@ WGLT Acusticity Radio;http://wglt.org/streams/acousticity.shtml;http://wgltradio
 WRFA LP NY;http://wrfalp.com/index.php?content=home&page=streaming;http://radioforthearts.serverroom.us:6128/
 WSRF;http://www.wsrf.com/#;http://www.live365.com/play/planet17
 Xtreme Radio;http://xtremeradio.org;http://streams.xtremeradio.org/high.mp3
+Acidic Infektion.br;http://www.acidicinfektion.com;http://radio.acidicinfektion.ind.in:8047
