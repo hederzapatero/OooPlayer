@@ -3,7 +3,7 @@
 35TNT - Techno n Trance;http://www.35tnt.com;http://198.20.96.53:80/
 A-A Electro;http://www.anthologywebradio.com;http://62.210.131.213:8000/stream/1/
 A-A Funk;http://www.anthologywebradio.com;http://62.210.131.213:8000/stream/4/
-Acidic Infektion.br;http://www.acidicinfektion.com;http://173.193.195.155:9976
+Acidic Infektion.br;http://www.acidicinfektion.com;http://radio.acidicinfektion.ind.in:8047
 AddictedToRadio - DH Chicago;http://addictedtoradio.com;http://wms-21.streamsrus.com:10025
 Bass Junkees;http://www.bassjunkees.com;http://space.ducks.invasion.started.at.bassjunkees.com:8442
 BigBeats;http://bigbeats.sytes.net;http://bigbeats.sytes.net:9000/
