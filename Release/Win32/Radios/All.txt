@@ -113,7 +113,7 @@ Abnormally Dead on Air;http://www.internetradio.co.uk/?gk_menu=mega#;http://199.
 ABradio Dance;http://www.abradio.cz/radio/59/dance-radio;http://mp3stream4.abradio.cz:8000/dance128.mp3
 Absolute Radio;http://www.absoluteradio.co.uk/listen/on-other-devices.html;http://stream.timlradio.co.uk/ABSOLUTERADIOIRMP3
 Absolute Radio - Classic Rock;http://www.absoluteradio.co.uk/listen/on-other-devices.html;http://stream.timlradio.co.uk/ABSOLUTECRIRMP3
-Acidic Infektion.br;http://www.acidicinfektion.com;http://173.193.195.155:9976
+Acidic Infektion.br;http://www.acidicinfektion.com;http://radio.acidicinfektion.ind.in:8047
 Acoustic Alternative;http://www.streamlicensing.com/directory/index.cgi?sid=42&start=1&g=&e=0&s=Acoustic;http://162.251.160.2:80/acoustichigh
 Activa Fm;http://www.activa.fm;http://emisorasmusicales.es:8000/activafm.mp3
 Activa Fm - Gold;http://www.activa.fm/reproductores.php;http://www.emisorasmusicales.es:8000/goldfm.mp3
